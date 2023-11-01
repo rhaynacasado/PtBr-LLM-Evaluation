@@ -1,2 +1,2 @@
-# Propor24
-Radiar project to Propor24 Conference
+# Evaluation of Open Instruction-Following Large Language Models for Portuguese
+Radiar project to study open instruction-following LLMs for Portuguese
